@@ -14,6 +14,14 @@ body {
   animation: colorRotate 6s linear 0s infinite;
 }
 
+.time {
+  text-align: center;
+  font-size: 32px;
+  font-family: Arial;
+  letter-spacing: 5px;
+  animation: colorRotate 6s linear 0s infinite;
+}
+
 @keyframes colorRotate {
   from {
     color: #6666ff;
