@@ -1,3 +1,12 @@
 # Kelpy-Site
-Personal Website
+
+Making this personal spageite until finalized.
 Kelpy
+
+## TODO
+- [] Add homepage
+- [] Add music page
+- [] Add socials in homepage
+- [] Add programming languages skills in homepage
+- [] Actually learn TypeScript
+- [] Finish this page
